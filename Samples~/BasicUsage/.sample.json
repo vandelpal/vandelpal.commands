@@ -1,0 +1,5 @@
+{
+  "displayName": "Basic Usage",
+  "description": "Shows how to create commands, use QueueCommand, BoxCommand, ProgressQueueCommand, and CommandsFactory.",
+  "createSeparatePackage": false
+}

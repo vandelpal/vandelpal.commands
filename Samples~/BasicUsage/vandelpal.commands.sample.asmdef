@@ -1,0 +1,17 @@
+{
+  "name": "vandelpal.commands.samples",
+  "rootNamespace": "Vandelpal.Commands.Sample",
+  "references": [
+    "vandelpal.commands",
+    "UniTask"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

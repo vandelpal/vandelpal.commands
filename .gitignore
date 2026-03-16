@@ -1,0 +1,24 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.suo
+*.user
+*.sln
+*.csproj
+*.pidb
+*.unityproj
+
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+*.apk
+*.aab
+*.unitypackage

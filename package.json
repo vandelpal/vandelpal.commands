@@ -1,0 +1,24 @@
+{
+  "name": "com.vandelpal.commands",
+  "displayName": "vandelpal.commands",
+  "version": "1.0.0",
+  "unity": "2021.3",
+  "description": "Lightweight command/operation pipeline: sequential and parallel queues, progress reporting, timeouts, and execution monitoring.",
+  "author": {
+    "name": "vandelpal"
+  },
+  "keywords": [
+    "commands",
+    "queue",
+    "pipeline",
+    "async"
+  ],
+  "dependencies": {},
+  "samples": [
+    {
+      "displayName": "Basic Usage",
+      "description": "Shows how to create commands, use QueueCommand, BoxCommand, ProgressQueueCommand, and CommandsFactory.",
+      "path": "Samples~/BasicUsage"
+    }
+  ]
+}
